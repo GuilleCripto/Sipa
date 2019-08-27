@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Sipa/static/css/main.aadd5ce6.chunk.css",
-    "main.js": "/Sipa/static/js/main.9e8332a2.chunk.js",
-    "main.js.map": "/Sipa/static/js/main.9e8332a2.chunk.js.map",
+    "main.js": "/Sipa/static/js/main.cc29feb1.chunk.js",
+    "main.js.map": "/Sipa/static/js/main.cc29feb1.chunk.js.map",
     "runtime~main.js": "/Sipa/static/js/runtime~main.26ae4982.js",
     "runtime~main.js.map": "/Sipa/static/js/runtime~main.26ae4982.js.map",
     "static/css/2.d0176e96.chunk.css": "/Sipa/static/css/2.d0176e96.chunk.css",
     "static/js/2.5b9a579d.chunk.js": "/Sipa/static/js/2.5b9a579d.chunk.js",
     "static/js/2.5b9a579d.chunk.js.map": "/Sipa/static/js/2.5b9a579d.chunk.js.map",
     "index.html": "/Sipa/index.html",
-    "precache-manifest.08470e643cb163750e7206b64c8d3c6d.js": "/Sipa/precache-manifest.08470e643cb163750e7206b64c8d3c6d.js",
+    "precache-manifest.fdfd46e8ea7b9f2c4f6e6cef0404b4cc.js": "/Sipa/precache-manifest.fdfd46e8ea7b9f2c4f6e6cef0404b4cc.js",
     "service-worker.js": "/Sipa/service-worker.js",
     "static/css/2.d0176e96.chunk.css.map": "/Sipa/static/css/2.d0176e96.chunk.css.map",
     "static/css/main.aadd5ce6.chunk.css.map": "/Sipa/static/css/main.aadd5ce6.chunk.css.map",
