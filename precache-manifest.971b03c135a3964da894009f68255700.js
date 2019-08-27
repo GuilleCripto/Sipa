@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8741e1a6a2b0c52f25ff9a7d0d52da74",
+    "revision": "062280d2343b9b04bff2190511221914",
     "url": "/Sipa/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Sipa/static/css/2.d0176e96.chunk.css"
   },
   {
-    "revision": "4152e66af4e445d5edb0",
+    "revision": "01c8af752888ea46194f",
     "url": "/Sipa/static/css/main.aadd5ce6.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Sipa/static/js/2.5b9a579d.chunk.js"
   },
   {
-    "revision": "4152e66af4e445d5edb0",
-    "url": "/Sipa/static/js/main.cc29feb1.chunk.js"
+    "revision": "01c8af752888ea46194f",
+    "url": "/Sipa/static/js/main.c1ac0865.chunk.js"
   },
   {
     "revision": "b241477417ad8fb4e3cb",
